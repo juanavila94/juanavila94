@@ -10,7 +10,7 @@
 
  
  ## 💫 About Me:
-I am a highly motivated and committed Web developer with a proactive and responsible attitude, My every day goal is the enhancement of my skills in order to write efficient and scalable code. I love to solve the every day problems and keep myself up-to-date with the latest technologies .
+I am a highly motivated and committed Web developer with a proactive and responsible attitude, my every day goal is the enhancement of my skills in order to write efficient and scalable code. I love to solve the every day problems and keep myself up-to-date with the latest technologies.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-avila/) 
 
@@ -21,7 +21,7 @@ I am a highly motivated and committed Web developer with a proactive and respons
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me
 
 <p>
-    <a href="juan.avila@live.com.ar">
+    <a href="mailto:juan.avila@live.com.ar">
       <img align="center" src="https://user-images.githubusercontent.com/87680255/229387345-bc33c866-535d-4c62-9ac0-77d04c72bc1c.png"/>
       juan.avila@live.com.ar
     </a>    
