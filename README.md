@@ -1,15 +1,4 @@
-### Hi there 👋
 
-<div align="center" display="grid">
-<!-- <img width="600px" src="https://user-images.githubusercontent.com/87680255/229386575-ffb2da67-dfec-4405-8765-d0fd3ed23672.gif"/> -->
-<h3>
- From Argentina :argentina: to the :earth_americas:
-</h3>
-</div>
-
-
- 
- ## 💫 About Me:
 I am a highly motivated and committed Web developer with a proactive and responsible attitude, my every day goal is the enhancement of my skills in order to write efficient and scalable code. I love to solve the every day problems and keep myself up-to-date with the latest technologies.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-cruz-avila/) 
